@@ -1,5 +1,7 @@
 # This project is fork of [jkuri/ng2-datepicker](https://github.com/jkuri/ng2-datepicker)
 
+Thanks for him for providing his source code
+
 # ng2-datepicker
 Angular2 Datepicker Component
 
